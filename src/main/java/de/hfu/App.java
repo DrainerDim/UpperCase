@@ -6,6 +6,10 @@ import java.util.Scanner;
  */
 public class App 
 {
+	/**
+	 * Hier beginnt die Klasse
+	 *
+	 */
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Bittw text eingeben");
